@@ -1,5 +1,4 @@
 # Bone-Facture-Detection
-<br>
 Datasets are collect from the https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
 <br>
 This dataset contains over 9,300 X-ray images categorized into two groups: Fractured and Non-fractured bones. It includes both original and augmented images to ensure sufficient data volume for training deep learning models. All images have been uniformly resized to 512 × 512 pixels using high-quality LANCZOS interpolation, preserving visual clarity while maintaining consistent dimensions. The dataset is well-balanced, with each class containing a total of 4,650 images—130 original and 4,520 augmented for the Fractured class, and 290 original with 4,360 augmented for the Non-fractured class. This collection is particularly suitable for computer vision, deep learning, and medical image analysis tasks, especially for developing and evaluating models focused on bone fracture detection. It is released under the CC BY 4.0 license, allowing reuse with proper attribution.
